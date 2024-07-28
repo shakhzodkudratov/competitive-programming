@@ -1,3 +1,4 @@
+// https://codeforces.com/problemset/problem/4/A
 use std::io::BufRead;
 
 fn read_line() -> Result<String, std::io::Error> {
